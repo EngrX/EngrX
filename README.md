@@ -10,7 +10,7 @@ I am John, a licensed and Professional Electronics Engineer and a Cloud Enthusia
 	🎮 MicroControllers: Raspberry Pi 3, PIC ME, and Arduino
 	🕹 Modules and Sensors: Bluetooth module, Relay module, WIFI module and Ultrasonic Sensor
 	🌐 Networking: Routing and switching configuration and IP addressing
-	💻 Softwares: Putty, Packet Tracer, Remix IDE, VS Code, TLW, Jasper iReport, CX programmer, MPLAB, Adobe Office, Microsoft Office, Multisim, and PROTEUS
+	💻 Software: Putty, Packet Tracer, Remix IDE, VS Code, TLW, Jasper iReport, CX programmer, MPLAB, Multisim, and PROTEUS
 	📝 Programming Languages: JavaScript, AI, EDI, Python, Solidity, C#, Shell and PLC
 	🤖 Automation: Bash
 	🌐 Markup / Frontend: HTML, Javascript and CSS
