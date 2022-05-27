@@ -1,9 +1,17 @@
 <img align="center" alt="Coding" width="1000" src="Totoro.png">
-
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 
 # Hi there! 👋
 
-I am John, a licensed and Professional Electronics Engineer and a Cloud Enthusiast.
+🎓 I am John, a licensed and Professional Electronics Engineer and a Cloud Enthusiast.
+
+### Technical Skills:✨
 
 	🧠 Electronics Technology: PCB Circuit Design, Electronic components testing and checking, and Circuit Design
 	📡 Communication Design: FTTx Design, and Wireless Communication Design
@@ -18,3 +26,16 @@ I am John, a licensed and Professional Electronics Engineer and a Cloud Enthusia
 	🗄 Databases: MySQL, PostgreSQL
 	⚡ Version Control: Git
 	⚙️ Operating Systems: Windows and Linux
+
+### Certifications
+
+	Registered Electronics Engineer
+	October 2019 | Professional Regulatory Commission
+
+	Registered Electronics Technician
+	October 2019 | Professional Regulatory Commission    
+
+	Class “C” Licensee for Amateur Radio
+	March 2016 | National Telecommunications Commissions         
+
+
