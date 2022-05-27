@@ -21,7 +21,7 @@
 	💻 Software: Putty, Packet Tracer, Remix IDE, VS Code, TLW, Jasper iReport, CX programmer, MPLAB, Multisim, and PROTEUS
 	📝 Programming Languages: JavaScript, AI, EDI, Python, Solidity, C#, Shell and PLC
 	🤖 Automation: Bash
-	🌐 Markup / Frontend: HTML, Javascript and CSS
+	🌐 Frontend: HTML, Javascript and CSS
 	☁ Cloud: Azure and AWS services, kubernetes
 	🗄 Databases: MySQL, PostgreSQL
 	⚡ Version Control: Git
