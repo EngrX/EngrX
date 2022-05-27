@@ -1,4 +1,6 @@
-<img align="right" alt="Coding" width="400" src="banner.png">
+<img align="center" alt="Coding" width="1000" src="banner.png">
+
+
 # Hi there! 👋
 # 🚀 About me
 
