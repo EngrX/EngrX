@@ -27,7 +27,7 @@
 	⚡ Version Control: Git
 	⚙️ Operating Systems: Windows and Linux
 
-### Certifications
+### Professional Licenses
 
 	Registered Electronics Engineer
 	October 2019 | Professional Regulatory Commission
@@ -39,3 +39,5 @@
 	March 2016 | National Telecommunications Commissions         
 
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
