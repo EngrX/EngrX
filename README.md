@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="banner.png">
+<img align="center" alt="Coding" width="1000" src="">
 
 
 # Hi there! 👋
