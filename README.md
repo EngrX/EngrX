@@ -9,7 +9,7 @@
 
 # Hi there! 👋
 
-**I am John, a licensed Electronics Engineer and a Cloud Enthusiast**, currently aiming to become a **Professional Cloud DevOps Engineer** and soon to become ***Cloud Engineer | Cloud Architect***.
+**I am John, a licensed Electronics Engineer and a Cloud Enthusiast**, currently aiming to become a **Professional Cloud DevOps Engineer** and soon to become a ***Cloud Engineer or Cloud Architect***.
 
 ### Technical Skills:✨
 
