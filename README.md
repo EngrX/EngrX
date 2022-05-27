@@ -12,7 +12,7 @@
 **I am John, a licensed Electronics Engineer and a Cloud Enthusiast**, currently aiming to become a **Professional Cloud DevOps Engineer** and soon to become a ***Cloud Engineer or Cloud Architect***.
 
 ### Technical Skills:✨
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	🧠 Electronics Technology: PCB Circuit Design, Electronic components testing and checking, and Circuit Design
 	📡 Communication Design: FTTx Design, and Wireless Communication Design
 	🎮 MicroControllers: Raspberry Pi 3, PIC ME, and Arduino
@@ -26,9 +26,9 @@
 	🗄 Databases: MySQL, PostgreSQL
 	⚡ Version Control: Git
 	⚙️ Operating Systems: Windows and Linux
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Professional Licenses
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	Registered Electronics Engineer
 	October 2019 | Professional Regulatory Commission
 
