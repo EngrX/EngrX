@@ -22,8 +22,8 @@
 	📝 Programming Languages: JavaScript, AI, EDI, Python, Solidity, C#, Shell and PLC
 	🤖 Automation: Bash
 	🌐 Frontend: HTML, Javascript and CSS
-	☁ Cloud: Azure and AWS services, kubernetes
-	🗄 Databases: MySQL, PostgreSQL
+	☁ Cloud: on-going 
+	🗄 Databases: MySQL
 	⚡ Version Control: Git
 	⚙️ Operating Systems: Windows and Linux
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
