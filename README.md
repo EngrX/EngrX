@@ -6,8 +6,8 @@
 
 # Hi there! 👋
 
-**I am John, a licensed Electronics Engineer and a Cloud Enthusiast**, currently aiming to become a **Professional Cloud DevOps Engineer** and soon to become a ***Cloud Engineer or Cloud Architect***.
-
+**I am John, a licensed Electronics Engineer, DevSecOps Engineer and a Cloud Enthusiast**, currently aiming to become a ***Professional Cloud DevOps Engineer***
+	
 ### Technical Skills:✨
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	🧠 Electronics Technology: PCB Circuit Design, Electronic components testing and checking, and Circuit Design
@@ -40,12 +40,12 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Certificates
+### Most Recent Certification
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	
 	Microsoft Azure Fundamentals
 	February 2023 | Microsoft
-```	
-for more certificates go to my LinkedIn 🤖
-```	
+
+> more on my LinkedIn 🤖
+
 	
