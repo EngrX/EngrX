@@ -20,13 +20,13 @@
 	🧱 IaC: Terraform
 	🤖 Automation: Bash, and Python
 	🌐 Frontend: HTML, Javascript and CSS
-	☁ Cloud: Azure
+	⛅ Cloud: Azure
 	📱 Monitoring: Datadog1
 	🗄 Databases: MySQL
 	⚡ Version Control: Git, and GitHub
 	⚙️ Operating Systems: Windows and Linux
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Professional Licenses 
+### Professional Licenses:✨
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	Registered Electronics Engineer
 	October 2019 | Professional Regulatory Commission
@@ -37,7 +37,7 @@
 	Class “C” Licensee for Amateur Radio
 	March 2016 | National Telecommunications Commissions         
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Most Recent Certification
+### Most Recent Certification:✨
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	Microsoft Azure Fundamentals
 	February 2023 | Microsoft
