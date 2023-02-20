@@ -45,7 +45,7 @@
 	
 	Microsoft Azure Fundamentals
 	February 2023 | Microsoft
-	
+```	
 for more certificates go to my LinkedIn 🤖
-	
+```	
 	
