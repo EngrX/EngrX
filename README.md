@@ -16,14 +16,14 @@
 	🕹 Modules and Sensors: Bluetooth module, Relay module, WIFI module and Ultrasonic Sensor
 	🌐 Networking: Routing and switching configuration and IP addressing
 	💻 Software: Jira, Confluence, Bamboo, SonarQube, Nexus, BitBucket, Remix IDE, TLW, Jasper iReport, CX programmer, MPLAB, Multisim, and PROTEUS
-	📝 Programming Languages: JavaScript, AI, EDI, Python, Solidity, C#, shell and PLC
+	📝 Programming Languages: JavaScript, AI, EDI, Python, Solidity, C#, Shell, PLC, JSON, and YAML
 	🧱 IaC: Terraform
 	🤖 Automation: Bash, and Python
 	🌐 Frontend: HTML, Javascript and CSS
 	☁ Cloud: Azure
-	📱 Monitoring: Datadog
+	📱 Monitoring: Datadog1
 	🗄 Databases: MySQL
-	⚡ Version Control: Git
+	⚡ Version Control: Git, and GitHub
 	⚙️ Operating Systems: Windows and Linux
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Professional Licenses 
@@ -36,16 +36,12 @@
 
 	Class “C” Licensee for Amateur Radio
 	March 2016 | National Telecommunications Commissions         
-
-
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Most Recent Certification
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	
 	Microsoft Azure Fundamentals
 	February 2023 | Microsoft
-
-> more on my LinkedIn 🤖
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+> More about me on my LinkedIn 🤖
 
 	
