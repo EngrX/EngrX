@@ -15,16 +15,18 @@
 	🎮 MicroControllers: Raspberry Pi 3, PIC ME, and Arduino
 	🕹 Modules and Sensors: Bluetooth module, Relay module, WIFI module and Ultrasonic Sensor
 	🌐 Networking: Routing and switching configuration and IP addressing
-	💻 Software: Putty, Packet Tracer, Remix IDE, VS Code, TLW, Jasper iReport, CX programmer, MPLAB, Multisim, and PROTEUS
-	📝 Programming Languages: JavaScript, AI, EDI, Python, Solidity, C#, Shell and PLC
-	🤖 Automation: Bash
+	💻 Software: Jira, Confluence, Bamboo, SonarQube, Nexus, BitBucket, Remix IDE, TLW, Jasper iReport, CX programmer, MPLAB, Multisim, and PROTEUS
+	📝 Programming Languages: JavaScript, AI, EDI, Python, Solidity, C#, shell and PLC
+	🧱 IaC: Terraform
+	🤖 Automation: Bash, and Python
 	🌐 Frontend: HTML, Javascript and CSS
-	☁ Cloud: on-going 
+	☁ Cloud: Azure
+	📱 Monitoring: Datadog
 	🗄 Databases: MySQL
 	⚡ Version Control: Git
 	⚙️ Operating Systems: Windows and Linux
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Professional Licenses
+### Professional Licenses 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	Registered Electronics Engineer
 	October 2019 | Professional Regulatory Commission
@@ -38,3 +40,12 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Certificates
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	
+	Microsoft Azure Fundamentals
+	February 2023 | Microsoft
+	
+for more certificates go to my LinkedIn 🤖
+	
+	
