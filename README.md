@@ -6,7 +6,7 @@
 
 # Hi there! 👋
 
-**I am John, a licensed Electronics Engineer, DevSecOps Engineer and a Cloud Enthusiast**, currently aiming to become a ***Professional Cloud DevOps Engineer***
+**I am John, a Licensed Electronics Engineer, currently working as DevSecOps Engineer and a Cloud Enthusiast**, my goal is to become a ***Professional Cloud DevOps Engineer***
 	
 ### Technical Skills:✨
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -21,7 +21,7 @@
 	🤖 Automation: Bash, and Python
 	🌐 Frontend: HTML, Javascript and CSS
 	⛅ Cloud: Azure
-	📱 Monitoring: Datadog1
+	📱 Monitoring: Datadog
 	🗄 Databases: MySQL
 	⚡ Version Control: Git, and GitHub
 	⚙️ Operating Systems: Windows and Linux
