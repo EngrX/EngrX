@@ -6,7 +6,7 @@
 
 # Hi there! 👋
 
-**I am John, a Professional Licensed Electronics Engineer, a DevOps Engineer and a Cloud Enthusiast**, my goal is to become a ***Professional Cloud DevSecOps Engineer***
+**I am John, a Professional Licensed Electronics Engineer, a DevOps Engineer and a Cloud Enthusiast**
 	
 ### Technical Skills:✨
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
